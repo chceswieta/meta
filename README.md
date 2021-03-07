@@ -5,9 +5,9 @@ Zadania zrealizowane podczas kursu Algorytmy metaheurystyczne na WPPT, PWr (seme
 - przeszukiwanie lokalne
 - Tabu Search
 
-## Lista 2
+### Lista 2
 - symulowane wyżarzanie
 
-## Lista 3
+### Lista 3
 - rój cząstek
 - algorytmy genetyczne
